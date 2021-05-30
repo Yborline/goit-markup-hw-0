@@ -314,9 +314,7 @@ body {
 .footer .container {
   padding: 60px 0px;
 }
-.logo-white {
-  margin-bottom: 20px;
-}
+
 .ad-footer :not(:last-child) {
   margin-bottom: 9px;
 }
@@ -332,6 +330,7 @@ body {
   font-size: 26px;
   line-height: 1.192;
   letter-spacing: 0.03em;
+  margin-bottom: 20px;
 }
 
 .address {
